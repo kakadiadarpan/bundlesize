@@ -16,11 +16,6 @@
 [![NPM Downloads](https://img.shields.io/npm/dm/bundlesize.svg?style=flat)](https://www.npmjs.com/package/bundlesize)
 &nbsp;
 
-#### sponsor
-
-[![Sponsor](https://app.codesponsor.io/embed/LhLT2c31ydJzdLUuSR9f8mCA/siddharthkp/bundlesize.svg)](https://app.codesponsor.io/link/LhLT2c31ydJzdLUuSR9f8mCA/siddharthkp/bundlesize)
-
-&nbsp;
 
 #### minimal setup
 
@@ -127,9 +122,14 @@ For more granular configuration, we recommend configuring it in the `package.jso
 
 &nbsp;
 
-#### Featured on [Totally tooling tips](https://www.youtube.com/watch?v=Da6VxdGU2Ig)!
+#### Featured on [Totally tooling tips](https://www.youtube.com/watch?v=Da6VxdGU2Ig) and [Chrome Dev Summit](https://www.youtube.com/watch?v=_srJ7eHS3IM)!!
 
-[![totally tooling tips](https://i.ytimg.com/vi/Da6VxdGU2Ig/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAAfWzQIMvjH0TIzkAhi-114DIHPQ)](https://www.youtube.com/watch?v=Da6VxdGU2Ig)
+<a href="https://www.youtube.com/watch?v=Da6VxdGU2Ig">
+  <img height="200px" src="https://i.ytimg.com/vi/Da6VxdGU2Ig/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAAfWzQIMvjH0TIzkAhi-114DIHPQ"/>
+</a>
+<a href="https://www.youtube.com/watch?v=_srJ7eHS3IM">
+  <img height="200px" src="https://cdn.rawgit.com/siddharthkp/bundlesize/master/art/chromedevsummit.png"/>
+</a>
 
 &nbsp;
 
@@ -147,7 +147,7 @@ For more granular configuration, we recommend configuring it in the `package.jso
 - [css-constructor](https://github.com/siddharthkp/css-constructor)
 - [redux-saga](https://github.com/redux-saga/redux-saga)
 - [micromodal](https://github.com/ghosh/micromodal)
-
+- [unistore](https://github.com/developit/unistore)
 
 &nbsp;
 

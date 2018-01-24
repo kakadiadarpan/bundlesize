@@ -35,7 +35,7 @@
   "author": "siddharthkp",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.16.2",
+    "axios": "^0.17.0",
     "bytes": "^3.0.0",
     "ci-env": "^1.4.0",
     "commander": "^2.11.0",
@@ -44,7 +44,7 @@
     "opencollective": "^1.0.3",
     "gzip-size": "^4.0.0",
     "prettycli": "^1.4.3",
-    "read-pkg-up": "^2.0.0"
+    "read-pkg-up": "^3.0.0"
   },
   "bundlesize": [
     {
@@ -73,7 +73,7 @@
     "eslint-plugin-promise": "^3.5.0",
     "eslint-plugin-standard": "^3.0.1",
     "husky": "^0.14.3",
-    "lint-staged": "^4.0.4",
+    "lint-staged": "^5.0.0",
     "prettier": "^1.6.0",
     "babel-cli": "7.0.0-alpha.19",
     "babel-core": "7.0.0-alpha.19",
